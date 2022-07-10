@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "nome": "Alexandre Costa",
+          "cpf": "51165697050",
+          "email": "xandeescaler@gmail.com",
+          "whatsapp": "11999999999",
+          "endereco": {
+              "cep": "03547030",
+              "rua": "Rua Marcos Grotti Vidal",
+              "numero": "12",
+              "complemento": "Ap 3",
+              "bairro": "Cidade Patriarca",
+              "cidade_uf": "São Paulo/SP"
+          },
+          "metodo_entrega": "Moto",
+          "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "nome": "Alexandre Costa",
+        "cpf": "511656970AA",
+        "email": "xandeescaler@gmail.com",
+        "whatsapp": "11999999999",
+        "endereco": {
+            "cep": "03547030",
+            "rua": "Rua Marcos Grotti Vidal",
+            "numero": "12",
+            "complemento": "Ap 3",
+            "bairro": "Cidade Patriarca",
+            "cidade_uf": "São Paulo/SP"
+        },
+        "metodo_entrega": "Moto",
+        "cnh": "cnh-digital.jpg" 
+    },
+    "email_inv": {
+        "nome": "Alexandre Costa",
+          "cpf": "51165697050",
+          "email": "alexandre.com.br",
+          "whatsapp": "11999999999",
+          "endereco": {
+              "cep": "03547030",
+              "rua": "Rua Marcos Grotti Vidal",
+              "numero": "12",
+              "complemento": "Ap 3",
+              "bairro": "Cidade Patriarca",
+              "cidade_uf": "São Paulo/SP"
+          },
+          "metodo_entrega": "Moto",
+          "cnh": "cnh-digital.jpg"
+        }      
+}
